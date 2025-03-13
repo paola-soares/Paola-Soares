@@ -13,5 +13,9 @@
 
 ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
+| <a href="https://github.com/paola-soares/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=paola-soares&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paola's github stats" /></a> | <a href="https://github.com/paola-soares/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paola-soares&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paola-soares&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paola-soares&layout=pie)](https://github.com/paola-soares/github-readme-stats)
