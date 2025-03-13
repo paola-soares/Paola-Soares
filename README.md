@@ -1,8 +1,12 @@
 **Be Welcome to my github profile  👋**
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CA34BD&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+!+:%29)](https://git.io/typing-svg)
+
+
+**About me**
 
 - 👩🏻 I'm **Paola** - I'm from Brazil
 - 👩🏻‍🎓 I’m currently learning **Data Science**
@@ -17,5 +21,3 @@
 | ------------- | ------------- |
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paola-soares&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paola-soares&layout=pie)](https://github.com/paola-soares/github-readme-stats)
